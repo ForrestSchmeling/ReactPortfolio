@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Projects from './pages/Projects';
 import Experience from './pages/Experience';
 import NavBar from './Components/NavBar';
+import "./Styles/app.css";
 
 function App() {
   return (

@@ -1,11 +1,14 @@
-import React from 'react'
-import {Link} from "react-router-dom"
+import React from 'react';
+import {Link} from "react-router-dom";
+import "../Styles/navBar.css";
+import ReorderIcon from "@material-ui/icons/Reorder";
 
 function NavBar() {
+    const [expandNavBar, setExpandNavBar] = useState(false);
   return (
     <div className='navBar'>
         <div className='hamburgerButton'>
-    <button> </button>
+    <button onClick={()=> {setExpandNavBar((prev) => !prev)}}><ReorderIcon /> </button>
         </div>
         <div className='links'>
             <Link to="/"> Home </Link>

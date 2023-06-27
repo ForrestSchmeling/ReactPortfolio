@@ -67,7 +67,7 @@
     .hamburgerButton {
       display: flex;
     }
-    .navBar a{
+    #close a{
       display: none;
     }
   }

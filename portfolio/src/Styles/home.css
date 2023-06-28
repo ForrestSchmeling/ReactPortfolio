@@ -39,7 +39,7 @@
       font-size: 40px;
     }
   }
-    .about .prompt {
+    .about .prompt img{
       margin-top: 10px;
       font-size: 20px;
       width: 80%;
@@ -55,7 +55,7 @@
   
   @media only screen and (max-width: 600px) {
     img{
-        width:75%;
-        height:60%;
+        max-width: 100%;
+        height:auto;
     }
   }

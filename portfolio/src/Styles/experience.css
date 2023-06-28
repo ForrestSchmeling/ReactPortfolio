@@ -1,0 +1,34 @@
+.exeperience{
+    width: 100%;
+    align-items: center;
+    font-family: "Arial", sans-serif;
+}
+.skills {
+    text-align: center;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+  .list span {
+    font-size: 20px;
+  }
+  .skills h1 {
+    color: #034694;
+  }
+  
+  .skills .list {
+    list-style: none;
+    width: 60%;
+  }
+  .skills {
+    font-size: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }

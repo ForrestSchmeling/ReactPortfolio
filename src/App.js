@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react'
-import {BrowserRouter as Router, Routes, Route, Navigate} from 'react-router-dom';
+import {BrowserRouter as HashRouter, Routes, Route, } from 'react-router-dom';
 import Home from "./pages/Home";
 import Projects from './pages/Projects';
 import Experience from './pages/Experience';
@@ -11,18 +11,17 @@ import Footer from './Components/footer';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter>
        <NavBar />
 
         <Routes>
           <Route path = "/" element ={<Home />} />
           <Route path = "/projects" element ={<Projects />} />
           <Route path = "/experience" element ={<Experience />} />
-          <Route path = "ReactPortfolio/" element ={<Navigate to="/users" />} />
         </Routes>
 
         <Footer />
-        </Router>
+        </HashRouter>
     </div>
   );
 }

@@ -15,10 +15,9 @@ function App() {
        <NavBar />
 
         <Routes>
-          <Route path = "/" element ={<Home />} />
-          <Route path = "/projects" element ={<Projects />} />
-          <Route path = "/experience" element ={<Experience />} />
-          <Route path = "/ReactPortfolio/" element ={<Home />} />
+          <Route path = "/ReactPortfolio"  element ={<Home />} />
+          <Route path = "/ReactPortfolio/projects"  element ={<Projects />} />
+          <Route path = "/Reactportfolio/experience"  element ={<Experience />} />
         </Routes>
 
         <Footer />

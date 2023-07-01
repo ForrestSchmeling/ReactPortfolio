@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ForrestSchmeling.github.io/ReactPortfolio",
+  "homepage": "https://ForrestSchmeling.github.io/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",

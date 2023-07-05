@@ -23,7 +23,7 @@ function Experience() {
       <h2>Certifications</h2>
       <span>CompTIA A+ Certified, CompTIA Project+ Certified, and ITIL 4 Foundations Certified.</span>
       </li>
-      <h1>College:</h1>
+      <h1>College</h1>
       <li className='item'>
        <h2>Western Governors University </h2>
        <span>

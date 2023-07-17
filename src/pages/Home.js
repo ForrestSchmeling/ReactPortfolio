@@ -1,7 +1,6 @@
 import React from 'react'
 import "../Styles/home.css";
 import me from "../pages/me.jpeg";
-
 function Home() {
   return (
     <div className='home'>
@@ -13,5 +12,6 @@ function Home() {
     </div>
   )
 }
+
 
 export default Home

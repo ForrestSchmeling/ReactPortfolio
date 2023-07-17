@@ -13,7 +13,7 @@ function Experience() {
       </li>
       <li className='item'> 
       <h2>Back-End</h2>
-      <span>SQL, .Net, Java, C++, Python, Ruby, C#</span>
+      <span>SQL, .Net, C++, C#</span>
       </li>
       <li className='item'> 
       <h2>Technical Skills</h2>

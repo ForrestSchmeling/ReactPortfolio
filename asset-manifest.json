@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.a7230203.css",
-    "main.js": "/ReactPortfolio/static/js/main.edc95a91.js",
+    "main.css": "/ReactPortfolio/static/css/main.de0d6e5a.css",
+    "main.js": "/ReactPortfolio/static/js/main.48ff72ea.js",
     "static/js/787.1ed0c42c.chunk.js": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/me.jpeg": "/ReactPortfolio/static/media/me.cc20e72ff911adfa1d24.jpeg",
     "static/media/AppointmentScheduler.jpeg": "/ReactPortfolio/static/media/AppointmentScheduler.899f287fa1a2f41fe398.jpeg",
     "static/media/StudentClassTracker.jpeg": "/ReactPortfolio/static/media/StudentClassTracker.28766b95ea9aef459767.jpeg",
     "static/media/InventoryManagment.jpeg": "/ReactPortfolio/static/media/InventoryManagment.11b5a28f2e5e196fafea.jpeg",
     "index.html": "/ReactPortfolio/index.html",
-    "main.a7230203.css.map": "/ReactPortfolio/static/css/main.a7230203.css.map",
-    "main.edc95a91.js.map": "/ReactPortfolio/static/js/main.edc95a91.js.map",
+    "main.de0d6e5a.css.map": "/ReactPortfolio/static/css/main.de0d6e5a.css.map",
+    "main.48ff72ea.js.map": "/ReactPortfolio/static/js/main.48ff72ea.js.map",
     "787.1ed0c42c.chunk.js.map": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7230203.css",
-    "static/js/main.edc95a91.js"
+    "static/css/main.de0d6e5a.css",
+    "static/js/main.48ff72ea.js"
   ]
 }
